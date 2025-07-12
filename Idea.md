@@ -1,3 +1,10 @@
+---
+# home.md
+layout: default
+title: 主页
+permalink: /index.html  # 关键设置
+---
+
 # 灵感云存档
 ## [2025-07-07 21:43:05]
 这是灵感测试
